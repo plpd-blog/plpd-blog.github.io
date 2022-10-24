@@ -7,11 +7,11 @@ The PLPD is a ever evolving organization that keeps changing every minute. With 
 
 ---
 
-# Table of content
+# **Table of content**
 
-- [Table of content](#table-of-content)
-  - [Laws](#laws)
-    - [Terminology](#terminology)
+- [**Table of content**](#table-of-content)
+  - [**Laws**](#laws)
+    - [**Terminology**](#terminology)
     - [**Section 2**](#section-2)
       - [1. **Self Defense and the Defense of Others**](#1-self-defense-and-the-defense-of-others)
       - [2. **Necessity**](#2-necessity)
@@ -20,11 +20,11 @@ The PLPD is a ever evolving organization that keeps changing every minute. With 
 
 ---
 
-## Laws
+## **Laws**
 
 ---
 
-### Terminology
+### **Terminology**
 
 1. **Public**: Anything that is owned by the people.
 2. **Private**: Anything that is owned by a citizen.
