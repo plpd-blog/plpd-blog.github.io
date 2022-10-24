@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "PLPD handbook"
-date:   2022-10-22 05:30:28 +0300
-categories: PLPD police
+permalink: /handbook
 ---
 The PLPD is a ever evolving organization that keeps changing every minute. With hundreds of cops signed and with IA (Internal Affairs) overloaded I decided to write a ultimate, ever evolving handbook that will help officers with performing their duties better!
 
