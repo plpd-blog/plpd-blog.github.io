@@ -10,21 +10,28 @@ The PLPD is a ever evolving organization that keeps changing every minute. With 
 # **Table of content**
 
 - [**Table of content**](#table-of-content)
-  - [**Laws**](#laws)
-    - [**Terminology**](#terminology)
-    - [**Section 2**](#section-2)
-      - [1. **Self Defense and the Defense of Others**](#1-self-defense-and-the-defense-of-others)
-      - [2. **Necessity**](#2-necessity)
-    - [**Section 3**](#section-3)
-      - [1. **Right to Arrest**](#1-right-to-arrest)
+  - [Laws](#laws)
+    - [Terminology](#terminology)
+    - [Section 2](#section-2)
+      - [1. Self Defense and the Defense of Others](#1-self-defense-and-the-defense-of-others)
+      - [2. Necessity](#2-necessity)
+    - [Section 3](#section-3)
+      - [1. Right to Arrest](#1-right-to-arrest)
+      - [2. Right to Charge](#2-right-to-charge)
+      - [3. Use of Force](#3-use-of-force)
+      - [4. Issuing of Arrest Warrants](#4-issuing-of-arrest-warrants)
+      - [5. Issuing of Search Warrants](#5-issuing-of-search-warrants)
+      - [6. Right to Stop and Detain](#6-right-to-stop-and-detain)
+      - [7. Right to Search](#7-right-to-search)
+      - [8. Right to Enter Private Property](#8-right-to-enter-private-property)
 
 ---
 
-## **Laws**
+## Laws
 
 ---
 
-### **Terminology**
+### Terminology
 
 1. **Public**: Anything that is owned by the people.
 2. **Private**: Anything that is owned by a citizen.
@@ -56,26 +63,82 @@ The PLPD is a ever evolving organization that keeps changing every minute. With 
 
 ---
 
-### **Section 2**
+### Section 2
 
-#### 1. **Self Defense and the Defense of Others**
+#### 1. Self Defense and the Defense of Others
 
 Any person is allowed to defend themselves using reasonable force:
+
 1. Do defend yourself as much as possible.
 2. Don't finish off the people that tried to kill you.
 
-#### 2. **Necessity**
+#### 2. Necessity
 
 If breaking the law to prevent **injury(s)**, **death(s)** or loss of **property(s)**, one should do it as reasonable and necessary as possible:
+
 1. Don't shoot someone over pushing you once.
 2. Do break the speed limit if you are bleeding and need to go to the hospital.
 
 ---
 
-### **Section 3**
+### Section 3
 
-#### 1. **Right to Arrest**
+#### 1. Right to Arrest
 
 **Law Enforcement Officer** has the power and means to arrest any person(s) that break the law only when enough evidence is provided:
+
 1. Do arrest for breaking the law.
 2. Don't arrest for no reason or little to no reason.
+
+#### 2. Right to Charge
+
+**Law Enforcement Officer** has the power and means to **charge** person(s) with adequate evidence for a crime they committed:
+
+1. Do arrest someone for killing with DNA evidence.
+2. Don't arrest someone for killing with only eye witness report of civilian.
+3. Do give a ticket for speeding if you have proof, such as speed camera.
+
+#### 3. Use of Force
+
+**Law Enforcement Officer** has the power and means to use force such as but not limited to: gun, taser or nightstick as long as they can provide adequate reason for the amount of force used:
+
+1. Do use a gun to shoot a suspect that is shooting at people.
+2. Don't use a gun to shoot a suspect of jaywalking
+
+#### 4. Issuing of Arrest Warrants
+
+**Law Enforcement Officer** ranked Sergeant and above have the power of issuing arrest warrants to order the arrest of person(s) with adequate evidence such as but not limited to: DNA, government witnesses, admissions of guilt. The warrant should provide as much information as possible, such as but not limited to: the weapon(s) used (if any), place where the crime(s) were committed:
+
+1. Do warrant someone for speeding when you caught it on camera.
+2. Don't warrant someone for eye witness from a civilian.
+
+#### 5. Issuing of Search Warrants
+
+**Law Enforcement Officer** ranked Sergeant and above have the power of issuing search warrants to order the search the **property(s)** of a person(s) of paralake. Search warrants are only for a **property(s)** and nothing more. The warrant should provide as much information as possible, such as but not limited to: the reason of the search, crime(s) committed:
+
+1. Do warrant someone for evidence of drug making.
+2. Don't warrant someone for speeding, as it does not warrant a search.
+
+#### 6. Right to Stop and Detain
+
+**Law Enforcement Officer** has the power and means to stop and search person(s) for any **Probable Cause** of a crime being committed and/or to investigate a crime being committed, during this time the officer is allowed to **detain** the person(s) as long as needed and not longer:
+
+1. Do stop and detain for murder, investigate, and charge the person(s), detaining him as little as possible before charging him.
+2. Don't stop and detain for no reason.
+3. Don't stop and detain for prolong amount of time and/or unreasonable amount of time.
+
+#### 7. Right to Search
+
+**Law Enforcement Officer** has the power and means to search a person(s) and/or **property(s)** for item(s) related to the crime committed, to search the person(s) **Probable Cause** should be established:
+
+1. Do search someone for their ID if they fail to identify.
+2. Do search someone for a gun used in a crime.
+3. Don't search someone for speeding as it does not relate to the crime.
+
+#### 8. Right to Enter Private Property
+
+**Law Enforcement Officer** has the power and means to enter private **property(s)** in order to conduct a investigation. **Law Enforcement Officer** are not allowed to enter private **property(s)** for no reason as this would be trespassing:
+
+1. Do enter someones house to execute a search/arrest warrant.
+2. Do enter someones house to search for drugs if you have **Probable Cause**.
+3. Don't enter someones house to search for drugs if you don't have **Probable Cause**.
