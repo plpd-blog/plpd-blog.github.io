@@ -7,23 +7,27 @@ The PLPD is a ever evolving organization that keeps changing every minute. With 
 
 ---
 
-# **Table of content**
+## Table of content
 
-- [**Table of content**](#table-of-content)
-  - [Laws](#laws)
-    - [Terminology](#terminology)
-    - [Section 2](#section-2)
-      - [1. Self Defense and the Defense of Others](#1-self-defense-and-the-defense-of-others)
-      - [2. Necessity](#2-necessity)
-    - [Section 3](#section-3)
-      - [1. Right to Arrest](#1-right-to-arrest)
-      - [2. Right to Charge](#2-right-to-charge)
-      - [3. Use of Force](#3-use-of-force)
-      - [4. Issuing of Arrest Warrants](#4-issuing-of-arrest-warrants)
-      - [5. Issuing of Search Warrants](#5-issuing-of-search-warrants)
-      - [6. Right to Stop and Detain](#6-right-to-stop-and-detain)
-      - [7. Right to Search](#7-right-to-search)
-      - [8. Right to Enter Private Property](#8-right-to-enter-private-property)
+- [Table of content](#table-of-content)
+- [Laws](#laws)
+  - [Terminology](#terminology)
+  - [Section 2](#section-2)
+    - [1. Self Defense and the Defense of Others](#1-self-defense-and-the-defense-of-others)
+    - [2. Necessity](#2-necessity)
+  - [Section 3](#section-3)
+    - [1. Right to Arrest](#1-right-to-arrest)
+    - [2. Right to Charge](#2-right-to-charge)
+    - [3. Use of Force](#3-use-of-force)
+    - [4. Issuing of Arrest Warrants](#4-issuing-of-arrest-warrants)
+    - [5. Issuing of Search Warrants](#5-issuing-of-search-warrants)
+    - [6. Right to Stop and Detain](#6-right-to-stop-and-detain)
+    - [7. Right to Search](#7-right-to-search)
+    - [8. Right to Enter Private Property](#8-right-to-enter-private-property)
+    - [9. Right to Restrict Entry to Public Places and Private Property](#9-right-to-restrict-entry-to-public-places-and-private-property)
+    - [10. Punishments](#10-punishments)
+    - [11. Cooperation with other agencies](#11-cooperation-with-other-agencies)
+    - [12. Secret Service Powers](#12-secret-service-powers)
 
 ---
 
@@ -142,3 +146,32 @@ If breaking the law to prevent **injury(s)**, **death(s)** or loss of **property
 1. Do enter someones house to execute a search/arrest warrant.
 2. Do enter someones house to search for drugs if you have **Probable Cause**.
 3. Don't enter someones house to search for drugs if you don't have **Probable Cause**.
+
+#### 9. Right to Restrict Entry to Public Places and Private Property
+
+**Law Enforcement Officer** has the power and means to restrict the entry to **public** and **private** **property(s)** for a valid reason. If the area restricted is larger than one residential property and the length of the restriction is longer then 10 minutes, the most senior officer needs to authorize the order.
+
+1. Do restrict the entry to a crime scene.
+2. Don't restrict the entry to a house for more than 10 minutes with out authorization.
+
+#### 10. Punishments
+
+**Law Enforcement Officer** do not have the power to execute capital punishment (ie. executing a suspect). **Law Enforcement Officer** need to follow the guidelines for the maximum punishment allowed and can't exceed it. If a officer wants to exceed the maximum allowed he needs to request the authorization of a Lieutenant or higher.
+
+1. Do arrest someone for at most the maximum allowed.
+2. Don't arrest someone for more than allowed with out authorization of a Lieutenant or higher.
+3. Don't execute a suspect.
+
+#### 11. Cooperation with other agencies
+
+All emergency services of paralake are expected to work together. Other organization(s) or person(s) can help with the authorization of police command.
+
+1. Do work together as a force.
+2. Don't let other organization(s) or person(s) with out authorization.
+
+#### 12. Secret Service Powers
+
+SS (Secret Service) are to protect the mayor. In case of a threat to the mayors life the SS get the same powers as LEOs. In case of use of force the SS need to report it to the police as soon as possible. The SS hold their same rank as in the PLPD as such they are required to follow policies and supervisor.
+
+1. Do protect the mayor.
+2. Don't abuse your given power for no reason.
