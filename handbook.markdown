@@ -12,10 +12,10 @@ The PLPD is a ever evolving organization that keeps changing every minute. With 
 - [Table of content](#table-of-content)
 - [Laws](#laws)
   - [Terminology](#terminology)
-  - [Section 2](#section-2)
+  - [Section 2: Right to Self Defense and Necessity](#section-2-right-to-self-defense-and-necessity)
     - [1. Self Defense and the Defense of Others](#1-self-defense-and-the-defense-of-others)
     - [2. Necessity](#2-necessity)
-  - [Section 3](#section-3)
+  - [Section 3: Powers of LEOs, Security Services and Elected Officials](#section-3-powers-of-leos-security-services-and-elected-officials)
     - [1. Right to Arrest](#1-right-to-arrest)
     - [2. Right to Charge](#2-right-to-charge)
     - [3. Use of Force](#3-use-of-force)
@@ -67,7 +67,7 @@ The PLPD is a ever evolving organization that keeps changing every minute. With 
 
 ---
 
-### Section 2
+### Section 2: Right to Self Defense and Necessity
 
 #### 1. Self Defense and the Defense of Others
 
@@ -85,7 +85,7 @@ If breaking the law to prevent **injury(s)**, **death(s)** or loss of **property
 
 ---
 
-### Section 3
+### Section 3: Powers of LEOs, Security Services and Elected Officials
 
 #### 1. Right to Arrest
 
@@ -152,7 +152,7 @@ If breaking the law to prevent **injury(s)**, **death(s)** or loss of **property
 **Law Enforcement Officer** has the power and means to restrict the entry to **public** and **private** **property(s)** for a valid reason. If the area restricted is larger than one residential property and the length of the restriction is longer then 10 minutes, the most senior officer needs to authorize the order.
 
 1. Do restrict the entry to a crime scene.
-2. Don't restrict the entry to a house for more than 10 minutes with out authorization.
+2. Don't restrict the entry to a street for more than 10 minutes with out authorization.
 
 #### 10. Punishments
 
@@ -167,7 +167,7 @@ If breaking the law to prevent **injury(s)**, **death(s)** or loss of **property
 All emergency services of paralake are expected to work together. Other organization(s) or person(s) can help with the authorization of police command.
 
 1. Do work together as a force.
-2. Don't let other organization(s) or person(s) with out authorization.
+2. Don't let other organization(s) or person(s) without authorization.
 
 #### 12. Secret Service Powers
 
