@@ -28,6 +28,13 @@ The PLPD is a ever evolving organization that keeps changing every minute. With 
     - [10. Punishments](#10-punishments)
     - [11. Cooperation with other agencies](#11-cooperation-with-other-agencies)
     - [12. Secret Service Powers](#12-secret-service-powers)
+  - [Section 4: Emergency Services or Elected Officials Conduct](#section-4-emergency-services-or-elected-officials-conduct)
+    - [1. Law-Enforcement Officer’s Discretion](#1-law-enforcement-officers-discretion)
+    - [2. Duties of a Law enforcement officer](#2-duties-of-a-law-enforcement-officer)
+    - [3. Exemption from Law](#3-exemption-from-law)
+    - [4. General Misconduct in a Public Office](#4-general-misconduct-in-a-public-office)
+    - [5. Ransom Payments](#5-ransom-payments)
+    - [6. Confiscation](#6-confiscation)
 
 ---
 
@@ -149,14 +156,14 @@ If breaking the law to prevent **injury(s)**, **death(s)** or loss of **property
 
 #### 9. Right to Restrict Entry to Public Places and Private Property
 
-**Law Enforcement Officer** has the power and means to restrict the entry to **public** and **private** **property(s)** for a valid reason. If the area restricted is larger than one residential property and the length of the restriction is longer then 10 minutes, the most senior officer needs to authorize the order.
+**Law Enforcement Officer** has the power and means to restrict the entry to **public** and **private** **property(s)** for a valid reason. If the area restricted is larger than one residential property and the length of the restriction is longer then 10 minutes, the most senior officer needs to authorize the order:
 
 1. Do restrict the entry to a crime scene.
 2. Don't restrict the entry to a street for more than 10 minutes with out authorization.
 
 #### 10. Punishments
 
-**Law Enforcement Officer** do not have the power to execute capital punishment (ie. executing a suspect). **Law Enforcement Officer** need to follow the guidelines for the maximum punishment allowed and can't exceed it. If a officer wants to exceed the maximum allowed he needs to request the authorization of a Lieutenant or higher.
+**Law Enforcement Officer** do not have the power to execute capital punishment (ie. executing a suspect). **Law Enforcement Officer** need to follow the guidelines for the maximum punishment allowed and can't exceed it. If a officer wants to exceed the maximum allowed he needs to request the authorization of a Lieutenant or higher:
 
 1. Do arrest someone for at most the maximum allowed.
 2. Don't arrest someone for more than allowed with out authorization of a Lieutenant or higher.
@@ -164,14 +171,61 @@ If breaking the law to prevent **injury(s)**, **death(s)** or loss of **property
 
 #### 11. Cooperation with other agencies
 
-All emergency services of paralake are expected to work together. Other organization(s) or person(s) can help with the authorization of police command.
+All emergency services of paralake are expected to work together. Other organization(s) or person(s) can help with the authorization of police command:
 
 1. Do work together as a force.
 2. Don't let other organization(s) or person(s) without authorization.
 
 #### 12. Secret Service Powers
 
-SS (Secret Service) are to protect the mayor. In case of a threat to the mayors life the SS get the same powers as LEOs. In case of use of force the SS need to report it to the police as soon as possible. The SS hold their same rank as in the PLPD as such they are required to follow policies and supervisor.
+SS (Secret Service) are to protect the mayor. In case of a threat to the mayors life the SS get the same powers as LEOs. In case of use of force the SS need to report it to the police as soon as possible. The SS hold their same rank as in the PLPD as such they are required to follow policies and supervisor:
 
 1. Do protect the mayor.
 2. Don't abuse your given power for no reason.
+
+---
+
+### Section 4: Emergency Services or Elected Officials Conduct
+
+#### 1. Law-Enforcement Officer’s Discretion
+
+It's up to a **Law Enforcement Officer** discretion to decide how to deal with a situation, they however, may be overruled by a higher ranking officer. Any officer who missuses their discretion power without the best interest of the city in their mind commits an offense under law 4.4:
+
+1. Do, as a Sergeant for example, use your power to stop a cop abusing their discretion power.
+2. Don't use your power to give a friend a easier sentence as a Sergeant.
+
+#### 2. Duties of a Law enforcement officer
+
+It's up to a **Law Enforcement Officer** to act in the best interest of the city, according to the policies and ethics of the PD and according to orders from higher ranks at all times. Officer that fails to do so is liable to punishment:
+
+1. Do stop crime(s).
+2. Don't let crime(s) rule the city.
+
+#### 3. Exemption from Law
+
+Emergency service worker can break the law in order to perform their duties as long as they reasonable, justifiable and proportionate and are necessary for the effective execution of their duties:
+
+1. Do break the speed limit to respond to a shooting.
+2. Don't break the speed limit for a case of Jaywalking.
+
+#### 4. General Misconduct in a Public Office
+
+Any elected or government employee who acts in bad faith or against the best of the city commits an offense of misconduct in a public office:
+
+1. Do act according to the law and with the best of the city in mind.
+2. Don't break the law or act against the city.
+
+#### 5. Ransom Payments
+
+Ransom payment should not exceed a total sum of $5,000 and need to be authorized by the highest rank on duty:
+
+1. Do ask permission from higher ups to pay ransom.
+2. Do pay at most $5,000 for ransom.
+
+#### 6. Confiscation
+
+No evidence shall be confiscated when under risk or harm, however evidence is allowed to be confiscated in case of the **Law Enforcement Officer** unable to watch after it or in case of a high risk of tempering with the evidence:
+
+1. Don't confiscate evidence while under gun fire.
+2. Do confiscate in case you need to respond to another emergency.
+3. Do confiscate in case you fear of the public tempering with evidence.
